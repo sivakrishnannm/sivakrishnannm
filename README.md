@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sivakrishnan
 
-<!--
-**sivakrishnannm/sivakrishnannm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Penetration Tester focused on offensive security and web application security.
 
-Here are some ideas to get you started:
+## Skills
+- Web Application Testing
+- Linux Privilege Escalation
+- Active Directory Attacks
+- Network Enumeration
+- Python Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Platforms
+- TryHackMe
+- PortSwigger Web Security Academy
+
+## Practical Experience
+- Completed the Junior Penetration Tester learning path on TryHackMe
+- Solved multiple labs from PortSwigger Web Security Academy
+- Practiced vulnerabilities from the OWASP Top 10
+
+## Projects
+- Python security tools (Port Scanner, Directory Brute Forcer)
+- Penetration testing lab writeups
