@@ -9,15 +9,25 @@ Aspiring Penetration Tester focused on offensive security and web application se
 - Network Enumeration
 - Python Scripting
 
-## Platforms
-- TryHackMe
-- PortSwigger Web Security Academy
+## Tools & Technologies
+- Nmap
+- Burp Suite
+- Gobuster
+- Netcat
+- Metasploit
+- Linux
+- Python
+- Git
 
-## Practical Experience
-- Completed the Junior Penetration Tester learning path on TryHackMe
-- Solved multiple labs from PortSwigger Web Security Academy
-- Practiced vulnerabilities from the OWASP Top 10
+## Labs & Practice
+- TryHackMe (Junior Penetration Tester Path)
+- PortSwigger Web Security Academy Labs
+- OWASP Top 10 Vulnerability Practice
 
 ## Projects
-- Python security tools (Port Scanner, Directory Brute Forcer)
-- Penetration testing lab writeups
+- Python Security Tools (Port Scanner, Directory Brute Forcer)
+- Penetration Testing Lab Writeups
+
+## Repositories
+- security-tools → Python tools for reconnaissance and web enumeration
+- tryhackme-writeups → Writeups from penetration testing labs
